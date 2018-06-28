@@ -2,11 +2,11 @@
 
 ### Day 0: June 28, 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Installed Brackets and started Jonas's HTML + CSS course on Stackskills.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Today I decided to use the coming school holidays of the children as a timeline for 100 days of code, so there is some progress over the coming months. I will stick to HTML and CSS and finish the paid courses I've bought this year. After the 100 days of code are done, I'll focus on Javascript.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** /
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
